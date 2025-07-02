@@ -50,6 +50,6 @@ After appropriate training, we checked how good the model is using two common me
 
 Finally, we saved the trained model so we could use it later without needing to train it again from scratch.
 
-And yup — that’s it! We’re done with the whole pipeline and the model is ready for use ✌️😎
+And yup — that’s it! We’re done with the whole pipeline and the model is ready for use 
 
 ---
